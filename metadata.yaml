@@ -1,0 +1,39 @@
+_repo: The-Pig-Brother-and-Other-Fables-and-Stories_43336
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2013-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers (Primary)'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The pig brother -- The golden windows -- The coming of the king --
+  Swing song -- The great feast -- The owl and the eel and the warming-pan -- The
+  wheat field -- About angels -- The apron string -- The shadow -- The sailor man
+  -- "Go" and "come" -- Child's play -- Little John Bottlejohn -- A fortune -- The
+  stars -- Buttercup Gold -- The patient cat -- Alice's supper -- The quacky duck
+  -- At the little boy's home -- New Year -- Jacky Frost -- The cake -- "Oh, dear!"
+  -- The useful coal -- Song of the little winds -- The three remarks -- Hokey Pokey
+  -- The tangled skein -- A song for Hal -- For you and me -- The burning house --
+  The naughty comet -- Day dreams.
+title: "The Pig Brother, and Other Fables and Stories\r\nA Supplementary Reader for\
+  \ the Fourth School Year"
+url: http://www.gutenberg.org/ebooks/43336
